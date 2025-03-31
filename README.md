@@ -1,1 +1,1 @@
-# PAN INDIAN LANGUAGE CLASSIFIER
+# Pan Indian Language Classifier
